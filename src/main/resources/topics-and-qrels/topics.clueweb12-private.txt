@@ -1,0 +1,235 @@
+<!-- 1.) HEALTH Category  -->
+
+<topic number="207" type="faceted">
+  <query>bph treatment</query>
+  <category>Health</category>
+  <description>
+    What are the treatment options for BPH (benign prostatic hyperplasia)?
+  </description>
+  <subtopic number="1" type="inf">
+    What are the treatment options for BPH (benign prostatic hyperplasia)?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    Which medications are used for BPH?
+  </subtopic>
+  <subtopic number="3" type="inf">
+    What surgical options are used to treat BPH?
+  </subtopic>
+  <subtopic number="4" type="inf">
+    What are some lifestyle measures for managing BPH?
+  </subtopic>
+  <subtopic number="5" type="inf">
+    What are the symptoms of BPH?
+  </subtopic>
+  <subtopic number="6" type="inf">
+    What are the causes of BPH?
+  </subtopic>
+  <subtopic number="7" type="inf">
+    What are the side effects of BPH treatments?
+  </subtopic>
+</topic>
+
+<topic number="213" type="faceted">
+  <query>carpal tunnel syndrome</query>
+  <category>Health</category>
+  <description>
+    What are the symptoms of carpal tunnel syndrome (CTS)?
+  </description>
+  <subtopic number="1" type="inf">
+    What are the symptoms of carpal tunnel syndrome (CTS)?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    How is CTS treated?
+  </subtopic>
+  <subtopic number="3" type="inf">
+    How is CTS diagnosed?
+  </subtopic>
+  <subtopic number="4" type="inf">
+    Find the causes of CTS.
+  </subtopic>
+  <subtopic number="5" type="inf">
+    Which exercises can bring relief from CTS?
+  </subtopic>
+  <subtopic number="6" type="inf">
+    Which activities are prevalent among CTS sufferers?
+  </subtopic>
+  <subtopic number="7" type="inf">
+    What are the options for surgically correcting CTS?
+  </subtopic>
+  <subtopic number="8" type="inf">
+    What are the recovery prospects for CTS surgical patients?
+  </subtopic>
+</topic>
+
+<topic number="222" type="faceted">
+  <query>male menopause</query>
+  <category>Health</category>
+  <description>
+    What are the symptoms and signs of male menopause?
+  </description>
+  <subtopic number="1" type="inf">
+    What are the symptoms and signs of male menopause?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    Find information on male menopause medication.
+  </subtopic>
+  <subtopic number="3" type="nav">
+     What is the definition of male menopause?
+  </subtopic>
+  <subtopic number="4" type="nav">
+     What is the medical term for male menopause?
+  </subtopic>
+  <subtopic number="5" type="inf">
+     Find information on male menopause supplements.
+  </subtopic>
+</topic>
+
+<topic number="236" type="single">
+  <query>symptoms of mad cow disease in humans</query>
+  <category>Health</category>
+  <description>
+    Find information about mad cow disease symptoms in humans.
+  </description>
+</topic>
+
+
+<topic number="253" type="faceted">
+  <query>tooth abscess</query>
+  <category>Health</category>
+  <description>
+ 	What treatments are available for a tooth abscess?
+  </description>
+  <subtopic number="1" type="inf">
+ 	What treatments are available for a tooth abscess?
+  </subtopic>
+  <subtopic number="2" type="inf">
+  	What are the dangers/complications of leaving a tooth abscess untreated?
+  </subtopic>
+  <subtopic number="3" type="inf">
+  	What are the concerns with extracting an abscessed tooth?
+  </subtopic>
+  <subtopic number="4" type="inf">
+  	Which antibiotics are used to treat a tooth abscess.
+  </subtopic>
+</topic>
+
+<topic number="254" type="faceted">
+  <query>barrett's esophagus</query>
+  <category>Health</category>
+  <description>
+  	Find the causes and risk factors of Barrett's Esophagus.
+  </description>
+  <subtopic number="1" type="inf">
+  	Find the causes and risk factors of Barrett's Esophagus.
+  </subtopic>
+  <subtopic number="2" type="inf">
+  	What treatments are available for Barrett's Esophagus?
+  </subtopic>
+  <subtopic number="3" type="inf">
+  	What is the recommended diet for Barrett's Esophagus?
+  </subtopic>
+  <subtopic number="4" type="inf">
+  	Is there a link between Barrett's Esophagus and cancer?
+  </subtopic>
+  <subtopic number="5" type="inf">
+  	Find symptoms of Barrett's Esophagus.
+  </subtopic>
+  <subtopic number="6" type="inf">
+  	Find pictures of Barrett's Esophagus.
+  </subtopic>
+  <subtopic number="7" type="inf">
+  	Find Barret's Esophagus studies performed at the Mayo Clinic.
+  </subtopic>
+</topic>
+
+<topic number="262" type="single">
+  <query>balding cure</query>
+  <category>Health</category>
+  <description>
+  	Find cures for baldness (other than hair replacement, hair transplants, or wigs).
+  </description>
+</topic>
+
+<topic number="266" type="single">
+  <query>symptoms of heart attack</query>
+  <category>Health</category>
+  <description>
+  	What are the symptoms of a heart attack in both men and women?
+  </description>
+</topic>
+
+<topic number="273" type="faceted">
+  <query>wilson's disease</query>
+  <category>Health</category>
+  <description>
+  	Find Wilson (Wilson's) Disease Association web site.
+  </description>
+  <subtopic number="1" type="nav">
+  	Find Wilson (Wilson's) Disease Association web site.
+  </subtopic>
+  <subtopic number="2" type="inf">
+  	What are the symptoms of Wilson's disease?
+  </subtopic>
+  <subtopic number="3" type="inf">
+  	What is the relationship between Wilson's disease and zinc?
+  </subtopic>
+  <subtopic number="4" type="inf">
+  	What diet should a person with Wilson's disease follow?
+  </subtopic>
+  <subtopic number="5" type="inf">
+  	Find pictures of the Kayser-Fleischer ring that is a sign of Wilson's disease.
+  </subtopic>
+  <subtopic number="6" type="inf">
+  	Is there a genetic basis to Wilson's disease?
+  </subtopic>
+</topic>
+
+<topic number="286" type="single">
+  <query>common schizophrenia drugs</query>
+  <category>Health</category>
+  <description>
+  	Which drugs are commonly used to treat the different stages of schizophrenia?
+  </description>
+</topic>
+
+<topic number="287" type="single">
+  <query>carotid cavernous fistula treatment</query>
+  <category>Health</category>
+  <description>
+  	What treatments are available for CCFT, carotid cavernous fistula?
+  </description>
+</topic>
+
+<!-- 2.) Personal/Career Education Category --> 
+
+<topic number="209" type="faceted">
+  <query>land surveyor</query>
+  <category>Education</category>
+  <description>
+    Find job openings for land surveyors.
+  </description>
+  <subtopic number="1" type="inf">
+    Find job openings for land surveyors.
+  </subtopic>
+  <subtopic number="2" type="inf">
+    What equipment and tools does a land surveyor use in his job?
+  </subtopic>
+  <subtopic number="3" type="inf">
+    What education does one need to become a land surveyor?
+  </subtopic>
+  <subtopic number="4" type="inf">
+    Which schools provide training to become a land surveyor?
+  </subtopic>
+  <subtopic number="5" type="nav">
+    What salary range does a land surveyor receive?
+  </subtopic>
+</topic>
+
+<topic number="214" type="single">
+  <query>capital gains tax rate</query>
+  <category>Personal</category>
+  <description>
+     What does the US capital tax rate consist of and how is it broken down? 
+  </description>
+</topic>
+

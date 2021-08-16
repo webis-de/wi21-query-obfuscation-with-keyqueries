@@ -1,0 +1,1285 @@
+<!-- 1.) HEALTH Category  -->
+
+<topic number="26" type="faceted">
+  <query>lower heart rate</query>
+  <category>Health</category>
+  <description>How can I lower my heart rate?
+  </description>
+  <subtopic number="1" type="inf">
+    What causes the heart to beat faster or slower?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    What is a normal heart rate when a person is resting?
+  </subtopic>
+  <subtopic number="3" type="inf">
+    How can I lower my heart rate?
+  </subtopic>
+  <subtopic number="4" type="inf">
+    Is a higher heart rate related to high blood pressure or
+    cholesterol?
+  </subtopic>
+</topic>
+
+<topic number="30" type="faceted">
+  <query>diabetes education</query>
+  <category>Health</category>
+  <description>I'm looking for online resources to learn and teach
+  others about diabetes.
+  </description>
+  <subtopic number="1" type="inf">
+    Find free diabetes education materials such as videos, pamphlets,
+    and books.
+  </subtopic>
+  <subtopic number="2" type="nav">
+    Take me to the NIH National Diabetes Education Program homepage.
+  </subtopic>
+  <subtopic number="3" type="nav">
+    Take me to the American Association of Diabetes Educators homepage.
+  </subtopic>
+  <subtopic number="4" type="inf">
+    I'm looking for nutrition and diet information for diabetics.
+  </subtopic>
+  <subtopic number="5" type="inf">
+    Where can I get free diabetes education posters?
+  </subtopic>
+  <subtopic number="6" type="inf">
+    How can I become a diabetes educator?
+  </subtopic>
+</topic>
+
+<topic number="33" type="faceted">
+  <query>elliptical trainer</query>
+  <category>Health</category>
+  <description>Find information about elliptical trainer machines.
+  </description>
+  <subtopic number="1" type="inf">
+    I'm looking for reviews of elliptical machines.
+  </subtopic>
+  <subtopic number="2" type="inf">
+    Where can I buy a used or discounted elliptical trainer?
+  </subtopic>
+  <subtopic number="3" type="inf">
+    What are the benefits of an elliptical trainer compared to other
+    fitness machines?
+  </subtopic>
+  <subtopic number="4" type="inf">
+    What are the best elliptical trainers for home use?
+  </subtopic>
+</topic>
+
+<topic number="182" type="faceted">
+  <query>quit smoking</query>
+  <category>Health</category>
+  <description>
+    What are the ways you can quit smoking?
+  </description>
+  <subtopic number="1" type="inf">
+    What are the ways you can quit smoking?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    What are the benefits of quitting smoking?
+  </subtopic>
+  <subtopic number="3" type="inf">
+    Can you quit smoking using the cold turkey method?
+  </subtopic>
+  <subtopic number="4" type="inf">
+    How can hypnosis help someone quit smoking?
+  </subtopic>
+</topic>
+
+
+<topic number="196" type="faceted">
+  <query>sore throat</query>
+  <category>Health</category>
+  <description>
+    What causes a sore throat?
+  </description>
+  <subtopic number="1" type="inf">
+    What causes a sore throat?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    Find home remedies for a sore throat.
+  </subtopic>
+  <subtopic number="3" type="inf">
+    Find information on throat cancer.
+  </subtopic>
+  <subtopic number="4" type="inf">
+    What does it mean when my throat is sore on only one side?
+  </subtopic>
+</topic>
+
+<topic number="199" type="faceted">
+  <query>fybromyalgia</query>
+  <category>Health</category>
+  <description>
+     What are the primary symptoms or signs of fybromyalgia?
+  </description>
+  <subtopic number="1" type="inf"> 
+     What are the primary symptoms or signs of fybromyalgia?
+  </subtopic>
+  <subtopic number="2" type="inf">
+     What medicines can be used to treat fybromyalgia?
+  </subtopic>
+  <subtopic number="3" type="inf">
+     What support groups are there for fybromyalgia suffers?
+  </subtopic>
+</topic>
+
+<topic number="46" type="faceted">
+  <query>alexian brothers hospital</query>
+  <category>Health</category>
+  <description>Find information about the Alexian Brothers and
+  hospitals they run.
+  </description>
+  <subtopic number="1" type="nav">
+    Go to the Alexian Brothers Health System homepage.
+  </subtopic>
+  <subtopic number="2" type="inf">
+    Find information about the Alexian Brothers lay Catholic order.
+  </subtopic>
+  <subtopic number="3" type="inf">
+    Find Alexian Brothers hospitals.
+  </subtopic>
+</topic>
+
+
+<topic number="67" type="faceted">
+  <query>vldl levels</query>
+  <category>Health</category>
+  <description>
+    Find information about VLDL or very-low-density lipoprotein, a
+    type of cholesterol.
+  </description>
+  <subtopic number="1" type="inf">
+    How are VLDL levels determined?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    What are good and bad levels of VLDL in a cholesterol test?
+  </subtopic>
+  <subtopic number="3" type="inf">
+    What is the difference between LDL, HDL, and VLDL?
+  </subtopic>
+</topic>
+
+<topic number="121" type="faceted">
+  <query>sit and reach test</query>
+  <category>Health</category>
+  <description>
+    Find out what the "sit and reach test" is.
+  </description>
+  <subtopic number="1" type="inf">
+    Find out what the "sit and reach test" is.
+  </subtopic>
+  <subtopic number="2" type="inf">
+    How is this test used in physical rehabilitation treatment?
+  </subtopic>
+  <subtopic number="3" type="inf">
+    How is the sit and reach test properly done?
+  </subtopic>
+  <subtopic number="4" type="inf">
+    What does the sit and reach test measure?
+  </subtopic>
+</topic>
+
+<topic number="123" type="faceted">
+  <query>von willebrand disease</query>
+  <category>Health</category>
+  <description>
+    What is von Willebrand Disease?
+  </description>
+  <subtopic number="1" type="inf">
+    What is von Willebrand Disease?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    What are the symptoms of von Willebrand Disease?
+  </subtopic>
+  <subtopic number="3" type="inf">
+    What treatments exist for von Willebrand Disease?
+  </subtopic>
+</topic>
+
+<topic number="128" type="faceted">
+  <query>atypical squamous cells</query>
+  <category>health</category>
+  <description>
+    What do atypical squamous cells mean on a pap smear test?
+  </description>
+  <subtopic number="1" type="inf">
+    What do atypical squamous cells mean on a pap smear test?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    Find information on cervical cancer, atypical squamous cells, and human papillomavirus (HPV).
+  </subtopic>
+  <subtopic number="3" type="inf">
+    How often may atypical squamous cells predict cervical cancer?
+  </subtopic>
+</topic>
+
+<topic number="78" type="ambiguous">
+  <query>dieting</query>
+  <category>Health</category>
+  <description>
+    Find "reasonable" dieting advice, that is not fads or medications
+    but reasonable methods for weight loss.
+  </description>
+  <subtopic number="1" type="inf">
+    Find "reasonable" dieting advice, that is not fads or medications
+    but reasonable methods for weight loss.
+  </subtopic>
+  <subtopic number="2" type="inf">
+    Find tips and charts for counting calories while dieting.
+  </subtopic>
+  <subtopic number="3" type="inf">
+    Find crash diet plans that promise quick weight loss in a
+    short period of time.
+  </subtopic>
+  <subtopic number="4" type="inf">
+    Find herbal diet supplements and appetite suppressants.
+  </subtopic>
+  <subtopic number="5" type="inf">
+    Find recommendations for dieting and exercising.
+  </subtopic>
+  <subtopic number="6" type="inf">
+    Find information on low-carbohydrate diets.
+  </subtopic>
+</topic>
+
+<topic number="152" type="faceted">
+  <query>angular cheilitis</query>
+  <category>Health</category>
+  <description>
+     What home remedies are there for angular cheilitis?
+  </description>
+  <subtopic number="1" type="inf">
+    What home remedies are there for angular cheilitis?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    What causes angular cheilitis?
+  </subtopic>
+  <subtopic number="3" type="nav">
+     What is the common name for angular cheilitis?
+  </subtopic>
+  <subtopic number="4" type="inf">
+    How do you treat severe angular cheilitis?
+  </subtopic>
+</topic>
+
+<topic number="82" type="ambiguous">
+  <query>joints</query>
+  <category>Health</category>
+  <description>
+    Find information about joints in the human body.
+  </description>
+  <subtopic number="1" type="inf">
+    Find information about joints in the human body.
+  </subtopic>
+  <subtopic number="2" type="inf">
+    Find an explanation of the different types of joints used in
+    woodworking.
+  </subtopic>
+  <subtopic number="3" type="inf">
+    Find information about joint pain and how to treat it.
+  </subtopic>
+</topic>
+
+<topic number="88" type="faceted">
+  <query>forearm pain</query>
+  <category>Health</category>
+  <description>
+    Where can I find information about forearm pain?
+  </description>
+  <subtopic number="1" type="inf">
+    What kinds of injuries or conditions can cause forearm pain?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    Find pages or sites that describe the anatomy of the forearm.
+  </subtopic>
+  <subtopic number="3" type="inf">
+    What are some exercises recommended for forearm pain?
+  </subtopic>
+  <subtopic number="4" type="inf">
+    Are there good home remedies for elbow pain?
+  </subtopic>
+  <subtopic number="5" type="inf">
+    Find information about tendinitis in the forearms.
+  </subtopic>
+  <subtopic number="6" type="inf">
+    Find information about supports and braces for the forearm to
+    prevent injury or lessen pain.
+  </subtopic>
+</topic>
+
+<topic number="89" type="faceted">
+  <query>ocd</query>
+  <category>Health</category>
+  <description>
+    Find information on obsessive-compulsive disorder.
+  </description>
+  <subtopic number="1" type="inf">
+    Find basic background information on obsessive-compulsive disorder
+    (OCD).
+  </subtopic>
+  <subtopic number="2" type="inf">
+    What are the symptoms of obsessive-compulsive disorder?
+  </subtopic>
+  <subtopic number="3" type="inf">
+    What medications are used for treating OCD?
+  </subtopic>
+  <subtopic number="4" type="inf">
+    Find personal stories about living with OCD.
+  </subtopic>
+  <subtopic number="5" type="inf">
+    Find information about OCD in children and how to identify it.
+  </subtopic>
+  <subtopic number="6" type="inf">
+    Find strategies for parents of children with OCD.
+  </subtopic>
+</topic>
+
+<topic number="105" type="faceted">
+  <query>sonoma county medical services</query>
+  <category>Health</category>
+  <description>
+    What medical services are available in Sonoma County, California?
+  </description>
+  <subtopic number="1" type="inf">
+    What medical services are available in Sonoma County, California?
+  </subtopic>
+  <subtopic number="2" type="nav">
+    I'm looking for the home page of the County Medical Services Program (CMSP) of Sonoma County, California.
+  </subtopic>
+  <subtopic number="3" type="inf">
+    I am looking for more information about health care coverage for low-income residents ofSonoma County, CA.
+  </subtopic>
+</topic>
+
+<topic number="109" type="faceted">
+  <query>mayo clinic jacksonville fl</query>
+  <category>Health</category>
+  <description>
+    What medical services are available at the Mayo Clinic in Jacksonville, FL?
+  </description>
+  <subtopic number="1" type="inf">
+    What medical services are available at the Mayo Clinic in Jacksonville, FL?
+  </subtopic>
+  <subtopic number="2" type="nav">
+    How does one request an appointment at the Mayo Clinic in Jacksonville, Florida?
+  </subtopic>
+  <subtopic number="3" type="nav">
+    Find the contact information for the Mayo Clinic in Jacksonville, FL.
+  </subtopic>
+  <subtopic number="4" type="inf">
+    Housing information for outpatients of the Mayo Clinic in Jacksonville, FL.
+  </subtopic>
+</topic>  
+
+<topic number="117" type="faceted">
+  <query>dangers of asbestos</query>
+  <category>Health</category>
+  <description>
+    What specific health problems arise from exposure to asbestos?
+  </description>
+  <subtopic number="1" type="inf">
+    What specific health problems arise from exposure to asbestos?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    Find basic information about the dangers of asbestos.
+  </subtopic>
+  <subtopic number="3" type="inf">
+    Find mortality rates due to asbestos exposure.
+  </subtopic>
+</topic>
+
+<topic number="162" type="ambiguous">
+  <query>dnr</query>
+  <category>Health</category>
+  <description>
+    What are "do not resuscitate" orders and how do you get one in place?
+  </description>
+  <subtopic number="1" type="inf">
+    What are "do not resuscitate" orders and how do you get one in place?
+  </subtopic>
+  <subtopic number="2" type="nav">
+    What is required to get a hunting license online from the Michigan Department of Natural Resources?
+  </subtopic>
+  <subtopic number="3" type="inf">
+     What are the Maryland Department of Natural Resources' regulations for deer hunting?
+  </subtopic>
+</topic>
+
+
+<topic number="168" type="faceted">
+  <query>lipoma</query>
+  <category>Health</category>
+  <description>
+     What are the causes of lipoma tumors in humans?
+  </description>
+  <subtopic number="1" type="inf">
+     What are the causes of lipoma tumors in humans?
+  </subtopic>
+  <subtopic number="2" type="inf">
+      What age group most often exhibits lipomas?
+  </subtopic>
+  <subtopic number="3" type="inf">
+      Which animals are known to present lipomas?
+  </subtopic>
+  <subtopic number="4" type="nav">
+     Find pictures of lipoma tumors.
+  </subtopic>
+  <subtopic number="5" type="inf">
+     What are the treatments for malignant lipolysis?
+  </subtopic>
+</topic>
+
+<topic number="173" type="faceted">
+  <query>hip fractures</query>
+  <category>Health</category>
+  <description>
+    Find information on hip fractures in the elderly.
+  </description>
+  <subtopic number="1" type="inf">
+    Find information on hip fractures in the elderly.
+  </subtopic>
+  <subtopic number="2" type="inf">
+    How do you treat a hip fracture and what is the prognosis for recovery?
+  </subtopic>
+  <subtopic number="3" type="nav">
+    How many hip fractures occur annually in the US?
+  </subtopic>
+</topic>
+
+<topic number="175" type="faceted">
+  <query>signs of a heartattack</query>
+  <category>Health</category>
+  <description>
+    What are the symptoms of a heart attack?
+  </description>
+  <subtopic number="1" type="inf">
+    What are the symptoms of a heart attack?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    Do the signs of a heart attack differ between men and women?
+  </subtopic>
+  <subtopic number="3" type="inf">
+    What are the early signs of a heart attack?
+  </subtopic>
+</topic>
+
+
+
+
+<!-- 2.) Personal/Career Education Category --> 
+
+<topic number="2" type="faceted">
+  <query>french lick resort and casino</query>
+  <category>Personal</category>
+  <description>Find information on French Lick Resort and Casino in
+  Indiana.
+  </description>
+  <subtopic number="1" type="nav">
+    Find the homepage for French Lick Resort and Casino.
+  </subtopic>
+  <subtopic number="2" type="inf">
+    What casinos are located within a day's drive of French Lick
+    Resort and Casino?
+  </subtopic>
+  <subtopic number="3" type="inf">
+    What jobs are available at French Lick Casino and Resort?
+  </subtopic>
+  <subtopic number="4" type="inf">
+    Are there discounted packages for staying at French Lick Resort
+    and Casino?
+  </subtopic>
+</topic>
+
+<topic number="8" type="ambiguous">
+  <query>appraisals</query>
+  <category>Personal</category>
+  <description>How are home values appraised?  I want to know how home
+  appraisals are done.
+  </description>
+  <subtopic number="1" type="inf">
+    What companies can give an appraisal of my home's value?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    I'm looking for companies that appraise jewelry.
+  </subtopic>
+  <subtopic number="3" type="inf">
+    Find examples of employee performance appraisals.
+  </subtopic>
+  <subtopic number="4" type="nav">
+    I'm looking for web sites that do antique appraisals.
+  </subtopic>
+</topic>
+
+
+<topic number="11" type="faceted">
+  <query>gmat prep classes</query>
+  <category>Education</category>
+  <description>I'm looking for information to help me prepare for the
+  GMAT exam.
+  </description>
+  <subtopic number="1" type="inf">
+    Who are some companies that offer GMAT prep classes?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    I'm looking for some free sample GMAT exams to practice on.
+  </subtopic>
+  <subtopic number="3" type="inf">
+    I'd like to find some tips to help me do well on the GMAT.
+  </subtopic>
+  <subtopic number="4" type="nav">
+    I'm looking for the BeatTheGMAT blog and forums.
+  </subtopic>
+  <subtopic number="5" type="nav">
+    Take me to the VeritasPrep home page.
+  </subtopic>
+  <subtopic number="6" type="inf">
+    What's the difference between the GRE and the GMAT?
+  </subtopic>
+</topic>
+
+<topic number="17" type="faceted">
+  <query>poker tournaments</query>
+  <category>Personal</category>
+  <description>I want to find information about live and online poker
+  tournaments.
+  </description>
+  <subtopic number="1" type="inf">
+    I want to find information on the World Series of Poker.
+  </subtopic>
+  <subtopic number="2" type="inf">
+    I'm looking for a schedule of poker tournaments in Las Vegas.
+  </subtopic>
+  <subtopic number="3" type="nav">
+    Take me to the Full Tilt Poker website.
+  </subtopic>
+  <subtopic number="4" type="inf">
+    I'm looking for a schedule of poker tournaments in Atlantic City.
+  </subtopic>
+  <subtopic number="5" type="inf">
+    I want to find Texas Hold-Em tournaments.
+  </subtopic>
+  <subtopic number="6" type="inf">
+    Find books on tournament poker playing.
+  </subtopic>
+</topic>
+
+<topic number="18" type="faceted">
+  <query>wedding budget calculator</query>
+  <category>Personal</category>
+  <description>I'm looking for information on planning and budgeting
+  for a wedding.
+  </description>
+  <subtopic number="1" type="inf">
+    I want to find online guides, tips, and checklists for planning a
+    wedding.
+  </subtopic>
+  <subtopic number="2" type="inf">
+    I am looking for spreadsheets or templates to help me tabulate a
+    budget for a wedding.
+  </subtopic>
+  <subtopic number="3" type="inf">
+    I want to find some example wedding budgets.
+  </subtopic>
+  <subtopic number="4" type="inf">
+    I'm looking for information on planning a wedding shower, like
+    theme ideas and budget guidelines.
+  </subtopic>
+  <subtopic number="5" type="inf">
+    How can I plan an inexpensive wedding?
+  </subtopic>
+</topic>
+
+
+<topic number="40" type="faceted">
+  <query>michworks</query>
+  <category>Career</category>
+  <description>Find information on getting a job in Michigan.
+  </description>
+  <subtopic number="1" type="nav">
+    Take me to the michworks Michigan Talent Bank homepage.
+  </subtopic>
+  <subtopic number="2" type="inf">
+    What jobs are available in Michigan?
+  </subtopic>
+  <subtopic number="3" type="inf">
+    Find career resources and information on job seeking in Michigan.
+  </subtopic>
+  <subtopic number="4" type="inf">
+    Find information about services available to the unemployed in
+    Michigan.
+  </subtopic>
+</topic>
+
+<topic number="47" type="faceted">
+  <query>indexed annuity</query>
+  <category>Personal</category>
+  <description>I'm looking for information about indexed annuities.
+  </description>
+  <subtopic number="1" type="inf">
+    What is an indexed annuity?  What are their advantages and
+    disadvantages?  What kinds of indexed annuities are there?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    Where can I buy an indexed annuity?  What investment companies
+    offer them?
+  </subtopic>
+  <subtopic number="3" type="inf">
+    Find ratings of indexed annuities.
+  </subtopic>
+</topic>
+
+
+<topic number="57" type="ambiguous">
+  <query>ct jobs</query>
+  <category>Career</category>
+  <description>
+    Find information about jobs in Connecticut.
+  </description>
+  <subtopic number="1" type="nav">
+    Find sites for finding a job in Connecticut.
+  </subtopic>
+  <subtopic number="2" type="nav">
+    Take me to the homepage for the Connecticut Department of Labor.
+  </subtopic>
+  <subtopic number="3" type="inf">
+    What kinds of jobs are most common in the state of Connecticut?
+  </subtopic>
+  <subtopic number="4" type="inf">
+    Find information about filing an claim for unemployment in Connecticut.
+  </subtopic>
+</topic>
+
+<topic number="66" type="ambiguous">
+  <query>income tax return online</query>
+  <category>Personal</category>
+  <description>
+    How can I file my Federal income tax return online?
+  </description>
+  <subtopic number="1" type="inf">
+    Find a site where I can fill out my Federal income tax return online.
+  </subtopic>
+  <subtopic number="2" type="inf">
+    Find information about electronically filing (e-filing) my Federal
+    income tax return.
+  </subtopic>
+  <subtopic number="3" type="inf">
+    Where can I find information online about filing my income taxes?
+  </subtopic>
+</topic>
+<topic number="95" type="ambiguous">
+  <query>earn money at home</query>
+  <category>Career</category>
+  <description>
+    What is behind various "earn money at home" scams?
+  </description>
+  <subtopic number="1" type="inf">
+    Find information about "earn money at home" scams.
+  </subtopic>
+  <subtopic number="2" type="inf">
+    Are there legitimate opportunities to earn money working online
+    from home?
+  </subtopic>
+  <subtopic number="3" type="inf">
+    Find information on starting a home business.
+  </subtopic>
+</topic>
+
+<topic number="98" type="faceted">
+  <query>sat</query>
+  <category>Education</category>
+  <description>
+    Find information on taking the SAT college entrance exam.
+  </description>
+  <subtopic number="1" type="inf">
+    How do I register to take the SAT exam?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    Find general information about the SATs.
+  </subtopic>
+  <subtopic number="3" type="inf">
+    What are typical and good ranges for SAT scores?  What is the
+    average score?
+  </subtopic>
+  <subtopic number="4" type="inf">
+    Find information on test preparation materials and courses for the SAT.
+  </subtopic>
+  <subtopic number="5" type="nav">
+    Take me to the homepage of the College Board, authors of the SAT.
+  </subtopic>
+</topic>
+  
+<topic number="104" type="ambiguous">
+  <query>indiana child support</query>
+  <category>Personal</category>
+  <description>
+    Find the official legal rules and procedures pertaining to child support in Indiana.
+  </description>
+  <subtopic number="1" type="inf">
+    Find the official legal rules and procedures pertaining to child support in Indiana.
+  </subtopic>
+  <subtopic number="2" type="nav">
+    Help me calculate my child support obligation in Indiana.
+  </subtopic>
+  <subtopic number="3" type="inf">
+    Find law firms that offer services relevant to child support in Indiana.
+  </subtopic>
+</topic>
+
+
+<topic number="119" type="faceted">
+  <query>interview thank you</query>
+  <category>Career</category>
+  <description>
+    Get help on writing a thank-you letter after a job interview.
+  </description>
+  <subtopic number="1" type="inf">
+    Get help on writing a thank-you letter after a job interview.
+  </subtopic>
+  <subtopic number="2" type="nav">
+    Find examples of thank-you letters for sending after an interview.
+  </subtopic>
+  <subtopic number="3" type="inf">
+    How can I best end a job interview positively?
+  </subtopic>
+</topic>
+
+<topic number="131" type="faceted">
+  <query>equal opportunity employer</query>
+  <category>Career</category>
+  <description>
+    What does the phrase, "equal opportunity employer" mean?
+  </description>
+  <subtopic number="1" type="inf">
+    What does the phrase, "equal opportunity employer" mean?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    Whom can I contact if I think I am being discriminated against by an equal opportunity employer?
+  </subtopic>
+  <subtopic number="3" type="nav">
+    Find the homepage of the Equal Employment Opportunity Commission.
+  </subtopic>
+</topic>
+
+<topic number="136" type="faceted">
+  <query>american military university</query>
+  <category>Education</category>
+  <description>
+    What are the registration requirements for enrolling at American Military University?
+  </description>
+  <subtopic number="1" type="inf">
+    What are the registration requirements for enrolling at American Military University?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    reviews and commentary on the quality of education received by students at American Military University
+  </subtopic>
+  <subtopic number="3" type="nav">
+    find the home page of the American Military University
+  </subtopic>
+</topic>
+
+<topic number="140" type="ambiguous">
+  <query>east ridge high school</query>
+  <category>Education</category>
+  <description>
+    demographics of East Ridge High School in Lick Creek, Kentucky
+  </description>
+  <subtopic number="1" type="inf">
+    demographics of East Ridge High School in Lick Creek, Kentucky
+  </subtopic>
+  <subtopic number="2" type="nav">
+    home page for East Ridge High School in Chattanooga, Tennessee
+  </subtopic>
+  <subtopic number="3" type="inf">
+    information about the sports program at East Ridge High School in Clermont, Florida
+  </subtopic>
+  <subtopic number="4" type="inf">
+    description of the sports facilities at East Ridge High School in Woodbury, MN
+  </subtopic>
+</topic>
+
+<topic number="142" type="ambiguous">
+  <query>illinois state tax</query>
+  <category>Personal</category>
+  <description>
+    information about the sales tax in Illinois: what is the rate and what is it levied on
+  </description>
+  <subtopic number="1" type="inf">
+    information about the sales tax in Illinois: what is the rate and what is it levied on
+  </subtopic> 
+  <subtopic number="2" type="inf">
+    information on the state income tax in Illinois
+  </subtopic>
+  <subtopic number="3" type="nav">
+    find a site where I can download Illinois state tax forms
+  </subtopic>
+</topic>
+
+ <topic number="147" type="faceted">
+  <query>tangible personal property tax</query>
+  <category>Personal</category>
+  <description>
+    What is the definition of tangible personal property for tax purposes?
+  </description>
+  <subtopic number="1" type="inf">
+    What is the definition of tangible personal property for tax purposes?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    What states levy a tax against tangible personal property?
+  </subtopic>
+  <subtopic number="3" type="inf">
+     When is the tangible personal property tax due?
+  </subtopic>
+</topic>
+
+<topic number="156" type="faceted">
+  <query>university of phoenix</query>
+  
+  <category>Education</category>
+  <description>
+    What online programs are offered by the University of Phoenix?
+  </description>
+  <subtopic number="1" type="nav">
+    What online programs are offered by the University of Phoenix?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    Find reviews of the programs at the University of Phoenix.
+  </subtopic>
+  <subtopic number="3" type="inf">
+    Who are the main online competitors of the University of Phoenix?
+  </subtopic>
+  <subtopic number="4" type="nav">
+    Find homepages of faculty members at the University of Phoenix.
+  </subtopic>
+</topic>
+
+<topic number="177" type="faceted">
+  <query>best long term care insurance</query>
+  <category>Personal</category>
+  <description>
+    What are the different types of long term care insurance policies?
+  </description>
+  <subtopic number="1" type="inf">
+    What are the different types of long term care insurance policies?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    What companies offer long term care insurance policies?
+  </subtopic>
+  <subtopic number="3" type="inf">
+    How much does long term insurance cost?
+  </subtopic>
+  <subtopic number="4" type="inf">
+    What ratings has AM Best given to long term care insurance polices?
+  </subtopic>
+</topic>
+
+<-- 3.) Law/Crime -->
+
+<topic number="59" type="faceted">
+  <query>how to build a fence</query>
+  <category>Law</category>
+  <description>
+    How do I go about building a fence myself?
+  </description>
+  <subtopic number="1" type="inf">
+    Find information about building a wooden fence.
+  </subtopic>
+  <subtopic number="2" type="inf">
+    Find information about building chain-link fences.
+  </subtopic>
+  <subtopic number="3" type="inf">
+    What materials are best for building fences?
+  </subtopic>
+  <subtopic number="4" type="nav">
+    Where can I buy materials for building a fence?
+  </subtopic>
+</topic>
+
+<topic number="61" type="ambiguous">
+  <query>worm</query>
+  <category>Law</category>
+  <description>
+    Find information about computer worms, viruses, and spyware.
+  </description>
+  <subtopic number="1" type="inf">
+    Find information about computer worms, viruses, and spyware.
+  </subtopic>
+  <subtopic number="2" type="inf">
+    Find information about worms in nature.
+  </subtopic>
+  <subtopic number="3" type="inf">
+    Find information about the Conficker worm.
+  </subtopic>
+</topic>
+
+
+<topic number="62" type="faceted">
+  <query>texas border patrol</query>
+  <category>Law</category>
+  <description>
+    Find information about the U.S. Customs and Border Patrol along the
+    Texas border with Mexico.
+  </description>
+  <subtopic number="1" type="nav">
+    Find the homepage for the Border Patrol in Texas.
+  </subtopic>
+  <subtopic number="2" type="nav">
+    Find the homepage for supporters of the U.S. Border Patrol in Texas.
+  </subtopic>
+  <subtopic number="3" type="inf">
+    Find information on the mission of the U.S. Border Patrol in Texas.
+  </subtopic>
+  <subtopic number="4" type="inf">
+    How do I get a job with the U.S. Border Patrol in Texas?
+  </subtopic>
+</topic>
+
+
+
+
+<!-- 4.) PET Category  -->
+
+<topic number="38" type="faceted">
+  <query>dogs for adoption</query>
+  <category>Personal</category>
+  <description>I want to adopt a dog.  Where can I do that and what
+  should I know?
+  </description>
+  <subtopic number="1" type="inf">
+    Find organizations that offer dogs for adoption.
+  </subtopic>
+  <subtopic number="2" type="inf">
+    Take me to the homepage of the Humane Society.
+  </subtopic>
+  <subtopic number="3" type="inf">
+    What should I know about adopting a dog?
+  </subtopic>
+</topic>
+
+<topic number="50" type="ambiguous">
+  <query>dog heat</query>
+  <category>Personal</category>
+  <description>What is the effect of excessive heat on dogs?
+  </description>
+  <subtopic number="1" type="inf">
+    What is the effect of excessive heat on dogs?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    What are symptoms of heat stroke and other heat-related illnesses
+    in dogs?
+  </subtopic>
+  <subtopic number="3" type="inf">
+    Find information on dogs' reproductive cycle.  What does it mean
+    when a dog is "in heat"?
+  </subtopic>
+</topic>
+
+<topic number="111" type="faceted">
+  <query>lymphoma in dogs</query>
+  <category>Personal</category>
+  <description>
+    What treatments are available for dogs diagnosed with lymphoma?
+  </description>
+  <subtopic number="1" type="inf">
+    What treatments are available for dogs diagnosed with lymphoma?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    What are the symptoms of lymphoma in dogs?
+  </subtopic>
+  <subtopic number="3" type="inf">
+    What are the risk factors or causes of lymphoma in dogs?
+  </subtopic>
+</topic>
+
+
+
+
+
+<topic number="207" type="faceted">
+  <query>bph treatment</query>
+  <category>Health</category>
+  <description>
+    What are the treatment options for BPH (benign prostatic hyperplasia)?
+  </description>
+  <subtopic number="1" type="inf">
+    What are the treatment options for BPH (benign prostatic hyperplasia)?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    Which medications are used for BPH?
+  </subtopic>
+  <subtopic number="3" type="inf">
+    What surgical options are used to treat BPH?
+  </subtopic>
+  <subtopic number="4" type="inf">
+    What are some lifestyle measures for managing BPH?
+  </subtopic>
+  <subtopic number="5" type="inf">
+    What are the symptoms of BPH?
+  </subtopic>
+  <subtopic number="6" type="inf">
+    What are the causes of BPH?
+  </subtopic>
+  <subtopic number="7" type="inf">
+    What are the side effects of BPH treatments?
+  </subtopic>
+</topic>
+
+<topic number="213" type="faceted">
+  <query>carpal tunnel syndrome</query>
+  <category>Health</category>
+  <description>
+    What are the symptoms of carpal tunnel syndrome (CTS)?
+  </description>
+  <subtopic number="1" type="inf">
+    What are the symptoms of carpal tunnel syndrome (CTS)?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    How is CTS treated?
+  </subtopic>
+  <subtopic number="3" type="inf">
+    How is CTS diagnosed?
+  </subtopic>
+  <subtopic number="4" type="inf">
+    Find the causes of CTS.
+  </subtopic>
+  <subtopic number="5" type="inf">
+    Which exercises can bring relief from CTS?
+  </subtopic>
+  <subtopic number="6" type="inf">
+    Which activities are prevalent among CTS sufferers?
+  </subtopic>
+  <subtopic number="7" type="inf">
+    What are the options for surgically correcting CTS?
+  </subtopic>
+  <subtopic number="8" type="inf">
+    What are the recovery prospects for CTS surgical patients?
+  </subtopic>
+</topic>
+
+<topic number="222" type="faceted">
+  <query>male menopause</query>
+  <category>Health</category>
+  <description>
+    What are the symptoms and signs of male menopause?
+  </description>
+  <subtopic number="1" type="inf">
+    What are the symptoms and signs of male menopause?
+  </subtopic>
+  <subtopic number="2" type="inf">
+    Find information on male menopause medication.
+  </subtopic>
+  <subtopic number="3" type="nav">
+     What is the definition of male menopause?
+  </subtopic>
+  <subtopic number="4" type="nav">
+     What is the medical term for male menopause?
+  </subtopic>
+  <subtopic number="5" type="inf">
+     Find information on male menopause supplements.
+  </subtopic>
+</topic>
+
+<topic number="236" type="single">
+  <query>symptoms of mad cow disease in humans</query>
+  <category>Health</category>
+  <description>
+    Find information about mad cow disease symptoms in humans.
+  </description>
+</topic>
+
+
+<topic number="253" type="faceted">
+  <query>tooth abscess</query>
+  <category>Health</category>
+  <description>
+ 	What treatments are available for a tooth abscess?
+  </description>
+  <subtopic number="1" type="inf">
+ 	What treatments are available for a tooth abscess?
+  </subtopic>
+  <subtopic number="2" type="inf">
+  	What are the dangers/complications of leaving a tooth abscess untreated?
+  </subtopic>
+  <subtopic number="3" type="inf">
+  	What are the concerns with extracting an abscessed tooth?
+  </subtopic>
+  <subtopic number="4" type="inf">
+  	Which antibiotics are used to treat a tooth abscess.
+  </subtopic>
+</topic>
+
+<topic number="254" type="faceted">
+  <query>barrett's esophagus</query>
+  <category>Health</category>
+  <description>
+  	Find the causes and risk factors of Barrett's Esophagus.
+  </description>
+  <subtopic number="1" type="inf">
+  	Find the causes and risk factors of Barrett's Esophagus.
+  </subtopic>
+  <subtopic number="2" type="inf">
+  	What treatments are available for Barrett's Esophagus?
+  </subtopic>
+  <subtopic number="3" type="inf">
+  	What is the recommended diet for Barrett's Esophagus?
+  </subtopic>
+  <subtopic number="4" type="inf">
+  	Is there a link between Barrett's Esophagus and cancer?
+  </subtopic>
+  <subtopic number="5" type="inf">
+  	Find symptoms of Barrett's Esophagus.
+  </subtopic>
+  <subtopic number="6" type="inf">
+  	Find pictures of Barrett's Esophagus.
+  </subtopic>
+  <subtopic number="7" type="inf">
+  	Find Barret's Esophagus studies performed at the Mayo Clinic.
+  </subtopic>
+</topic>
+
+<topic number="262" type="single">
+  <query>balding cure</query>
+  <category>Health</category>
+  <description>
+  	Find cures for baldness (other than hair replacement, hair transplants, or wigs).
+  </description>
+</topic>
+
+<topic number="266" type="single">
+  <query>symptoms of heart attack</query>
+  <category>Health</category>
+  <description>
+  	What are the symptoms of a heart attack in both men and women?
+  </description>
+</topic>
+
+<topic number="273" type="faceted">
+  <query>wilson's disease</query>
+  <category>Health</category>
+  <description>
+  	Find Wilson (Wilson's) Disease Association web site.
+  </description>
+  <subtopic number="1" type="nav">
+  	Find Wilson (Wilson's) Disease Association web site.
+  </subtopic>
+  <subtopic number="2" type="inf">
+  	What are the symptoms of Wilson's disease?
+  </subtopic>
+  <subtopic number="3" type="inf">
+  	What is the relationship between Wilson's disease and zinc?
+  </subtopic>
+  <subtopic number="4" type="inf">
+  	What diet should a person with Wilson's disease follow?
+  </subtopic>
+  <subtopic number="5" type="inf">
+  	Find pictures of the Kayser-Fleischer ring that is a sign of Wilson's disease.
+  </subtopic>
+  <subtopic number="6" type="inf">
+  	Is there a genetic basis to Wilson's disease?
+  </subtopic>
+</topic>
+
+<topic number="286" type="single">
+  <query>common schizophrenia drugs</query>
+  <category>Health</category>
+  <description>
+  	Which drugs are commonly used to treat the different stages of schizophrenia?
+  </description>
+</topic>
+
+<topic number="287" type="single">
+  <query>carotid cavernous fistula treatment</query>
+  <category>Health</category>
+  <description>
+  	What treatments are available for CCFT, carotid cavernous fistula?
+  </description>
+</topic>
+
+<!-- 2.) Personal/Career Education Category --> 
+
+<topic number="209" type="faceted">
+  <query>land surveyor</query>
+  <category>Education</category>
+  <description>
+    Find job openings for land surveyors.
+  </description>
+  <subtopic number="1" type="inf">
+    Find job openings for land surveyors.
+  </subtopic>
+  <subtopic number="2" type="inf">
+    What equipment and tools does a land surveyor use in his job?
+  </subtopic>
+  <subtopic number="3" type="inf">
+    What education does one need to become a land surveyor?
+  </subtopic>
+  <subtopic number="4" type="inf">
+    Which schools provide training to become a land surveyor?
+  </subtopic>
+  <subtopic number="5" type="nav">
+    What salary range does a land surveyor receive?
+  </subtopic>
+</topic>
+
+<topic number="214" type="single">
+  <query>capital gains tax rate</query>
+  <category>Personal</category>
+  <description>
+     What does the US capital tax rate consist of and how is it broken down? 
+  </description>
+</topic>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
