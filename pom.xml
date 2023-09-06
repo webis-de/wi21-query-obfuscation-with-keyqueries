@@ -73,10 +73,71 @@
 				</executions>
 				<configuration>
 					<programs>
-						<program>
-							<mainClass>com.mycompany.app.App</mainClass>
-             						<id>app</id>
-						</program>
+            <program>
+              <mainClass>io.anserini.ltr.FeatureExtractorCli</mainClass>
+              <id>FeatureExtractorCli</id>
+            </program>
+            <program>
+              <mainClass>io.anserini.index.IndexCollection</mainClass>
+              <id>IndexCollection</id>
+            </program>
+            <program>
+              <mainClass>io.anserini.index.IndexHnswDenseVectors</mainClass>
+              <id>IndexHnswDenseVectors</id>
+            </program>
+            <program>
+              <mainClass>io.anserini.search.SearchCollection</mainClass>
+              <id>SearchCollection</id>
+            </program>
+            <program>
+              <mainClass>io.anserini.search.SearchHnswDenseVectors</mainClass>
+              <id>SearchHnswDenseVectors</id>
+            </program>
+            <program>
+              <mainClass>io.anserini.search.SimpleSearcher</mainClass>
+              <id>SimpleSearcher</id>
+            </program>
+
+            <program>
+              <mainClass>io.anserini.search.SimpleTweetSearcher</mainClass>
+              <id>SimpleTweetSearcher</id>
+            </program>
+            <program>
+              <mainClass>io.anserini.index.IndexReaderUtils</mainClass>
+              <id>IndexReaderUtils</id>
+            </program>
+            <program>
+               <mainClass>io.anserini.util.DumpAnalyzedQueries</mainClass>
+               <id>DumpAnalyzedQueries</id>
+            </program>
+            <program>
+               <mainClass>io.anserini.util.ExtractAverageDocumentLength</mainClass>
+               <id>ExtractAverageDocumentLength</id>
+            </program>
+            <program>
+               <mainClass>io.anserini.util.ExtractDocumentLengths</mainClass>
+               <id>ExtractDocumentLengths</id>
+            </program>
+            <program>
+               <mainClass>io.anserini.util.ExtractNorms</mainClass>
+               <id>ExtractNorms</id>
+            </program>
+            <program>
+               <mainClass>io.anserini.util.ExtractTopDfTerms</mainClass>
+               <id>ExtractTopDfTerms</id>
+            </program>
+            <program>
+              <mainClass>io.anserini.index.IndexInvertedDenseVectors</mainClass>
+              <id>IndexVectors</id>
+            </program>
+            <program>
+              <mainClass>io.anserini.search.SearchInvertedDenseVectors</mainClass>
+              <id>ApproximateNearestNeighborSearch</id>
+            </program>
+            <program>
+              <mainClass>io.anserini.search.EvaluateInvertedDenseVectors</mainClass>
+              <id>ApproximateNearestNeighborEval</id>
+            </program>
 					</programs>
 				</configuration>
 			</plugin>
