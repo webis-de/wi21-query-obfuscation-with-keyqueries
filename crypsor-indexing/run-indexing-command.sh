@@ -1,7 +1,7 @@
 #!/bin/bash -e
 
 docker run --rm -ti \
-        -v ${PWD}/../:/anserini \
+        -v ${PWD}/:/anserini \
 	-v ${PWD}/indexes:/indexes \
         -v /mnt/ceph/storage/data-in-progress/data-research/web-search/private-web-search-with-keyqueries/reranking-index-anserini/documents:/mnt/ceph/storage/data-in-progress/data-research/web-search/private-web-search-with-keyqueries/reranking-index-anserini/documents \
 	-v /mnt/ceph/storage/data-in-progress/data-research/web-search/private-web-search-with-keyqueries/reranking-index-anserini/allow-lists:/mnt/ceph/storage/data-in-progress/data-research/web-search/private-web-search-with-keyqueries/reranking-index-anserini/allow-lists \
